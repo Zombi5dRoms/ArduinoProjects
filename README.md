@@ -1,4 +1,4 @@
-# ArduinoPriv
+# ArduinoProjects
 
 Just code of my different arduino projects.
 
